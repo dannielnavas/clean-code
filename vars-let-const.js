@@ -9,3 +9,5 @@ const PI = 3.14159; // No se puede reasignar
 
 // Var es de alcance global por lo que se puede acceder desde cualquier parte del código y se puede reasignar sin importar el bloque de código en el que se encuentre (No recomendado)
 // Let y const son de alcance de bloque (solo se pueden usar dentro de un bloque de código)
+
+// let se puede reasignar y const no se puede reasignar
