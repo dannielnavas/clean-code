@@ -16,7 +16,7 @@ const users = ["John", "Jane", "Jim"];
 
 const userNames = ["John", "Jane", "Jim"];
 
-// uso de Booleanos usar prefijos como is, has, can, should, etc.
+// uso de Booleanos usar prefijos como is, has, can.
 
 // No recomendado ❌
 
